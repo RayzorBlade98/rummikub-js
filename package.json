@@ -1,0 +1,19 @@
+{
+  "name": "rummikub-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RayzorBlade98/rummikub-js.git"
+  },
+  "author": "André Schweizer @RayzorBlade98",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RayzorBlade98/rummikub-js/issues"
+  },
+  "homepage": "https://github.com/RayzorBlade98/rummikub-js#readme"
+}
