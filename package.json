@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RayzorBlade98/rummikub-js/issues"
   },
-  "homepage": "https://github.com/RayzorBlade98/rummikub-js#readme"
+  "homepage": "https://github.com/RayzorBlade98/rummikub-js#readme",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
 }
